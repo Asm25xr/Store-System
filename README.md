@@ -1,2 +1,2 @@
 # Store-System
-This project practical task for the File Structure Course
+This project is a practical task for the File Structure Course
